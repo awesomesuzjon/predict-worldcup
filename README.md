@@ -1,6 +1,6 @@
 ⚽ # PredictTheCup AI – Project Summary
 
-# PredictTheCup AI is a full-stack AI-powered football analytics and prediction platform built around the FIFA World Cup 2026. The platform allows users to predict match outcomes, compete on leaderboards, analyze team and player statistics, simulate entire tournaments, and interact with an AI football analyst for insights and predictions.
+ PredictTheCup AI is a full-stack AI-powered football analytics and prediction platform built around the FIFA World Cup 2026. The platform allows users to predict match outcomes, compete on leaderboards, analyze team and player statistics, simulate entire tournaments, and interact with an AI football analyst for insights and predictions.
 
 The goal is to create a modern SaaS-style sports application that combines real-time football data, artificial intelligence, analytics, and gamification into a single platform.
 
