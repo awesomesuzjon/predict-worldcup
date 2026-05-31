@@ -1,3 +1,58 @@
+⚽ # PredictTheCup AI – Project Summary
+
+# PredictTheCup AI is a full-stack AI-powered football analytics and prediction platform built around the FIFA World Cup 2026. The platform allows users to predict match outcomes, compete on leaderboards, analyze team and player statistics, simulate entire tournaments, and interact with an AI football analyst for insights and predictions.
+
+The goal is to create a modern SaaS-style sports application that combines real-time football data, artificial intelligence, analytics, and gamification into a single platform.
+
+# Key Features
+AI match predictions and win probabilities
+
+World Cup tournament simulator and bracket predictions
+
+Live match statistics and analytics dashboard
+
+AI football analyst (ChatGPT-style football assistant)
+
+User prediction tracking and global leaderboards
+
+Team and player performance insights
+
+Fan sentiment and trending topics analysis
+
+Responsive dashboard for desktop and mobile
+
+# Tech Stack
+Frontend
+React
+TypeScript
+React Router
+Tailwind CSS
+shadcn/ui
+Zustand
+TanStack Query
+Recharts
+Framer Motion
+
+Backend
+Node.js
+Express.js
+TypeScript
+MongoDB Atlas
+JWT Authentication
+AI & Data
+OpenAI API
+LangChain
+Football APIs (API-Football / Football Data API)
+
+Cloud & Deployment
+AWS EC2
+AWS S
+CloudFront
+GitHub Actions (CI/CD)
+
+# Objective
+To build a production-quality portfolio project that demonstrates modern full-stack development, cloud deployment, AI integration, real-time data handling, and scalable application architecture while creating a platform that football fans could genuinely use during the 2026 World Cup. 🚀⚽
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
